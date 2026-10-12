@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://emstudios.tech/logo.svg" alt="EM Studios Logo" width="140" height="140" />
+  <img src="Gemini_Generated_Image_ktjmwoktjmwoktjm.jpg" alt="EM Studios Logo" width="140" height="140" />
 
   # EM Studios
   ### Engineering Smart Digital Solutions & AI Innovations
